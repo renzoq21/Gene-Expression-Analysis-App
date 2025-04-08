@@ -1,7 +1,7 @@
 This Shiny app provides a comprehensive tool to explore gene expression data. It allows users to load and visualize sample information, analyze counts matrices, and explore differential expression results using RNASeq data.
 
 Dataset Information
-The app supports various RNASeq gene expression datasets, including but not limited to:
+This application supports multiple RNA-Seq gene expression datasets. While several are available, this app is currently focused on analysis of the Post-mortem Huntington’s Disease Prefrontal Cortex dataset:
 
 Soybean Cotyledon Gene Expression Across Development
 Gene expression data for soybean cotyledons across different stages after planting.
